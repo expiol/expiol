@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate about cybersecurity, 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=expiol)
 
 ### About Me 💡
-- 🔭 I’m currently working on **using LLMs to solve CTF challenges**
+- 🔭 I’m currently working on **Study**
 - 🌱 I’m learning **advanced techniques in cybersecurity and machine learning**
 - 👯 I’m open to collaborating on **network security projects and CTF competitions**
-- 🤔 I’m looking for help with **optimizing LLMs for better performance in CTF problem solving**
+- 🤔 I’m looking for help with **Bypassing Antivirus Software**
 - 💬 Ask me about **C/C++ development, computer networks, and Python programming**
 - 📫 How to reach me: **[expiol@5r75ll.onmicrosoft.com]**
 - 😄 Pronouns: **he**
@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate about cybersecurity, 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-0099CC?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
