@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate about cybersecurity, 
 
 ---
 
-Thanks for visiting my profile! Let's secure the web together and solve some CTF challenges! 🚀🔒
+Thanks for visiting my profile! Let's secure the web together and research antivirus software! 🚀🔒
