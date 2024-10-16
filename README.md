@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate about cybersecurity, 
 - 👯 I’m open to collaborating on **network security projects and CTF competitions**
 - 🤔 I’m looking for help with **Bypassing Antivirus Software**
 - 💬 Ask me about **C/C++ development, computer networks, and Python programming**
-- 📫 How to reach me: **[expiol@5r75ll.onmicrosoft.com]**
+- 📫 How to reach me: **[admin@expiol.com]**
 - 😄 Pronouns: **he**
 - ⚡ Fun fact: **I love breaking things just to fix them, especially in cybersecurity!**
 
