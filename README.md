@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm expiol!
 
-Welcome to my GitHub profile! I'm a 21-year-old passionate about cybersecurity, coding, and exploring cutting-edge technologies. I'm currently diving deep into large language models (LLMs) to solve Capture The Flag (CTF) challenges. Below, you'll find more about me, my skills, and what I'm working on.
+Welcome to my GitHub profile! I'm 21 years old and passionate about cybersecurity, programming, and exploring cutting-edge technologies. I'm currently diving into Large Language Models (LLMs) and related topics in cybersecurity. Below, you can learn more about me, my skills, and what I'm working on.
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=expiol)
 
@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate about cybersecurity, 
 - 💬 Ask me about **C/C++ development, computer networks, and Python programming**
 - 📫 How to reach me: **[admin@expiol.com]**
 - 😄 Pronouns: **he**
-- ⚡ Fun fact: **I love breaking things just to fix them, especially in cybersecurity!**
 
 ### My Tech Stack 🚀
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
