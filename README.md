@@ -23,7 +23,9 @@ Welcome to my GitHub profile! I'm 21 years old and passionate about cybersecurit
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ### GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=expiol&show_icons=true&theme=tokyonight)
+[![LeetCode](https://leetcard.jacoblin.cool/magical-nashoys?site=cn&theme=dark)](https://leetcode.cn/u/magical-nashoys/)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expiol&layout=compact&theme=tokyonight)
 
 ### Let's Connect 🌍
