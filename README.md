@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm 21 years old and passionate about cybersecurit
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-0099CC?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+### Coding
 
-### GitHub Stats 📊
 [![LeetCode](https://leetcard.jacoblin.cool/magical-nashoys?site=cn&theme=dark)](https://leetcode.cn/u/magical-nashoys/)
-
+### GitHub Stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expiol&layout=compact&theme=tokyonight)
 
